@@ -1,0 +1,9 @@
+The rainbow poem.
+
+orange
+blue
+green
+violet
+yellow
+
+these are the colors of the rainbow.
