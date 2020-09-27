@@ -1,4 +1,4 @@
-The rainbow poem.
+The rainbow poem and the unicorn.
 
 orange
 blue
@@ -7,5 +7,7 @@ pink
 green
 violet
 yellow
+pale black
 
 these are the colors of the rainbow.
+and the unicorn.
