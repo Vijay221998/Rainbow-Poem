@@ -2,6 +2,7 @@ The rainbow poem.
 
 orange
 blue
+purple
 green
 violet
 yellow
